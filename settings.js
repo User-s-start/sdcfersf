@@ -1,12 +1,12 @@
 require("./module")
 
-global.owner = "6283857564133"
-global.ownerStore = "6283857564133"
-global.pairingNumber = "6289517657040"
+global.owner = "6285231293025"
+global.ownerStore = "6285231293025"
+global.pairingNumber = "6285231293025"
 global.namabot = "Rafael Store"
 global.namaCreator = "Rafa Store"
 global.namaStore = "RafaStore"
-global.nodana = "089517657040"
+global.nodana = "085231293025"
 global.nogopay = "083857564133"
 global.antilink = false
 global.versisc = '1.0.0'
